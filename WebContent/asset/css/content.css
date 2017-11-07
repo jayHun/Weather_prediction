@@ -1,0 +1,13 @@
+setCharacterEncoding("UTF-8");
+.content{
+  position: relative;
+  margin-top: 50px;
+  width: 700px;
+  height: 400px;
+  background-color: #c0c0c0;
+  border: 7px double #008040;
+  border-radius: 10px;
+  float: left;
+  text-align: center;
+  padding-top: 50px;
+}

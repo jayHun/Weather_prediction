@@ -1,0 +1,37 @@
+body {
+  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+  margin: 0px;
+  padding: 50px;
+  background-image: url(../img/background.jpg);
+}
+.menu {
+  position: relative;
+  margin-top: 20px;
+  padding-left: 300px;
+  height: 80px;
+  width: auto;
+}
+
+aside.left{
+  width: 30px;
+  height: 400px;
+  float: left;
+  margin-top: 50px;
+}
+
+aside.right{
+  width: 30px;
+  height: 400px;
+  float: left;
+  margin-top: 50px;
+}
+
+footer{
+  position: relative;
+  margin: 50px 0px 5% 35%;
+  float: left;
+  width: 300px;
+  hegiht: 40px;
+  text-align: center;
+}
+
